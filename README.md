@@ -19,7 +19,6 @@ Le premier champ de texte permet de saisir la requête Pro*C en entrée, et le s
 ## Demo
 
 ![Screenshot](/Documentation/Screenshots/1.png)
-
 > Interface du programme
 
 ### Exemple
