@@ -18,7 +18,7 @@ Le premier champ de texte permet de saisir la requête Pro*C en entrée, et le s
 
 ## Demo
 
-![Screenshot](/documentation/Screenshots/1.png)
+![Screenshot](/Documentation/Screenshots/1.png)
 
 ## Installation
 
