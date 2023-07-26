@@ -16,6 +16,10 @@ Le premier champ de texte permet de saisir la requête Pro*C en entrée, et le s
 - Désactivation des clauses INTO pour les requêtes SELECT en les mettant en commentaire.
 - Remplacement des champs de struct par le nom de leur champ.
 
+## Demo
+
+![Screenshot](/documentation/Screenshots/1.png)
+
 ## Installation
 
 1. Assurez-vous d'avoir Golang installé sur votre système.
