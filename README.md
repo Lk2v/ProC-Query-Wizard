@@ -1,4 +1,4 @@
-# SQL-Query-Wizard
+# ProC-Query-Wizard
 
 Ce programme Golang a été développé dans le cadre de mon stage pour automatiser la transformation de requêtes Pro*C en requêtes SQL testables. Il est doté d'une interface graphique simple comportant deux champs de texte.
 
